@@ -1,1 +1,9 @@
+To observe the different process states — Ready, Running, Waiting, and Terminated — using Linux monitoring tools such as ps, top, and /proc.
 
+Tools Used
+
+ps – displays information about currently running processes and their states.
+
+top – provides real-time information about processes and their resource usage.
+
+/proc – provides detailed information about processes through the /proc/PID/ directory.
